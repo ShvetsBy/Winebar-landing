@@ -1,0 +1,203 @@
+.boxShadow {
+  box-shadow: 0 10px 10px rgba(0, 0, 0, .2);
+  background-color: #FFEDED;
+  
+}
+
+.photo	{
+	  padding-left: 5px;
+  padding-right: 5px;
+}
+
+/*.photo-left	{
+	  padding-left: 5px;
+}
+
+.photo-right	{
+	  padding-right: 5px;
+}*/
+
+.winelogo {
+	margin: 7px 7px 14px -15px;
+}
+
+.head {
+	margin-left: -115px;
+	margin-top: 10px;
+}
+
+.cover{
+
+	padding-right: -25px;
+	padding-left: -25px;
+}
+
+.mainheadline {
+margin-top: -3px;
+
+}
+
+.headline {
+margin-top: 0px;
+
+}
+
+.review {
+	margin-left: -40px;
+}
+
+ul.textreview
+{
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 15px;
+	list-style-type: none;
+	margin-left: -40px;
+}
+
+p.head {
+	margin-top: -5px;
+}
+
+ul.winelist
+{
+	font-size: 74%;
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 15px;
+	list-style-type: none;
+	margin-left: -25px;
+}
+
+ul.text
+{
+	font-family: 'Roboto', sans-serif;
+	margin-bottom: 15px;
+	list-style-type: none;
+	margin-left: 15px;
+
+}
+
+li {
+	margin-bottom: 5px;
+}
+
+ul.up {
+	margin-top: -10px;
+}
+
+
+.winelisthead {
+	margin-top: -5px;
+}
+
+.footer-list {
+
+font-size: 90%;
+line-height: 160%;
+list-style-type: none;
+margin-left: -20px;
+}
+
+.factnumber {
+margin-top: 10px;
+font-family: 'Prata', serif;
+font-size: 300% ;
+color: #B22B27;
+line-height: 100%;
+
+}
+
+.fact {
+font-size: 110% ;
+color: #472500;
+margin-top: 10px;
+}
+
+a:link {
+ color: #002f55;
+ border-bottom: 1px solid;
+ border-bottom-color: rgba(35, 82, 124,0.2);
+ text-decoration: none;
+}
+
+
+a:visited {
+color: #52248D;
+border-bottom: 1px solid;
+border-bottom-color: rgba(82, 36, 141,0.2);
+text-decoration: none;
+
+}
+
+a:hover {
+ color: #0E4B9B;
+ border-bottom-color: rgba(14,75,155,0.5);
+ text-decoration: none;
+}
+
+a.phone {
+ color: #333333;
+ border-bottom: 0px;
+ text-decoration: none;
+}
+
+
+
+
+
+.photo_caption {
+font-size: 100%;
+line-height: 120%;	
+margin-top: 5px;
+margin-bottom: 25px;
+
+}
+
+.photo_caption_lead {
+font-size: 95%;
+line-height: 120%;	
+margin-top: 5px;
+margin-left: 30px;
+margin-bottom: 15px;
+}
+
+p, li {
+font-size: 120%;
+line-height: 140%;
+font-family: 'Gabriela', serif;
+
+}
+
+p {
+	margin-left: 15px;
+}
+
+
+.down{
+margin-bottom: 60px;
+
+}
+
+
+
+h1, h2,h3,h4, h5, .h3, .h4 {
+font-family: 'Alice', serif;	
+margin-left: 15px;
+/*color: #721444;*/
+}
+
+h1 {
+	margin-top: 10px;
+}
+
+h2.map {
+margin-top: 20px;
+
+}
+
+.footer {
+margin-top: 20px !important;
+margin-bottom: 40px !important;
+font-size: 90%;
+line-height: 120%;	 
+}
+
