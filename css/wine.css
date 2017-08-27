@@ -42,6 +42,12 @@
 
 .left-fact2 {
 	margin-left: 30px;
+	
+}
+
+.left-fact2-2 {
+	margin-left: 30px;
+	margin-top: -20px !important;
 }
 
 .left-fact3 {
@@ -171,9 +177,6 @@ a.phone {
  border-bottom: 0px;
  text-decoration: none;
 }
-
-
-
 
 
 .photo_caption {
