@@ -76,14 +76,129 @@ h2.map {
 
 }
 
+@media (min-width: 600px) and (max-width: 1024px) {
+ 
+.winelogo {
+	margin: 7px 5px 10px -15px !important;
+}
 
+.head {
+	margin-left: -60px !important;
+	margin-top: 5px !important;
+}
+
+.slideshare {
+	border: 1px solid #CCC; 
+	border-width:1px; 
+	margin-top: 15px !important;
+	margin-left: 5px !important;
+	max-width: 100%;
+}
+
+.slideshare_caption{
+font-size: 100%;
+line-height: 120%;	
+margin: 0px 0px 40px 5px !important;
+/*margin-left: 5px !important;
+margin-bottom: 30px !important;*/
+
+}
+
+.factnumber2 {
+margin-top: 40px;
+margin-left: -25px;
+font-family: 'Unna', serif;
+font-size: 290% ;
+color: #B22B27;
+line-height: 100%;
+
+}
+
+.likely {
+margin: 30px 40px 45px 15px !important;
+}
+
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+ 
+.winelogo {
+	margin: 7px 5px 10px -15px !important;
+}
+
+.head {
+	margin-left: -80px !important;
+	margin-top: 5px !important;
+}
+
+.slideshare {
+	border:1px solid #CCC; 
+	border-width:1px; 
+	margin: 15px 40px 30px 5px !important; 
+	max-width: 100%;
+}
+
+.slideshare_caption{
+font-size: 100%;
+line-height: 120%;	
+margin: 15px 15px 40px 0px !important;
+
+}
+
+.factnumber2 {
+margin-top: 40px;
+margin-left: -25px;
+font-family: 'Unna', serif;
+font-size: 320% ;
+color: #B22B27;
+line-height: 100%;
+
+}
+
+.likely {
+margin: 30px 40px 50px 15px !important;
+}
+
+}
+
+@media (min-width: 1200px) {
+
+.slideshare {
+	border:1px solid #CCC; 
+	border-width:1px; 
+	margin: 15px 40px 30px 5px !important; 
+	max-width: 100%;
+}
+
+.slideshare_caption{
+font-size: 100%;
+line-height: 120%;	
+margin: 15px 15px 40px -30px !important;
+
+}
+
+.factnumber2 {
+margin-top: 40px;
+margin-left: -25px;
+font-family: 'Unna', serif;
+font-size: 400% ;
+color: #B22B27;
+line-height: 100%;
+
+}
+
+.likely {
+margin: -100px 40px 40px 15px !important;
+}
+
+}
 
 .winelogo {
 	margin: 7px 5px 10px -15px;
 }
 
 .head {
-	margin-left: -30px;
+	margin-left: -20px;
 	margin-top: 5px;
 }
 
@@ -95,6 +210,7 @@ h2.map {
 .headaddressright {
 	padding: 0px;
 }
+
 
 
 p.head {
@@ -142,10 +258,6 @@ line-height: 160%;
 list-style-type: none;
 margin-left: -20px;
 margin-top: -10px;
-}
-
-.likely {
-margin: -100px 40px 40px 15px !important;
 }
 
 
@@ -202,6 +314,16 @@ padding-top: 10px !important;
 margin-top: 35px;
 margin-left: -30px;
 font-family: 'Unna', serif;
+font-size: 400% ;
+color: #B22B27;
+line-height: 100%;
+
+}
+
+.factnumber3 {
+margin-top: 35px;
+margin-left: -30px;
+font-family: 'Unna', serif;
 font-size: 500% ;
 color: #B22B27;
 line-height: 100%;
@@ -211,27 +333,35 @@ line-height: 100%;
 .fact {
 margin-top: -15px;
 margin-left: -25px;
+font-size: 100% ;
+line-height: 120%
 }
 
-.factnumber2 {
-margin-top: -10px;
-margin-left: -25px;
-font-family: 'Unna', serif;
-font-size: 400% ;
-color: #B22B27;
-line-height: 100%;
-
-}
 
 .fact2 {
-margin-top: 40px;
+
 margin-left: -27px;
+font-size: 100% ;
+line-height: 120%
 
 }
 
 .factoid {
 margin-left: -15px;
 
+}
+
+.mobile_padding{
+	padding-right: 0 !important;
+	padding-left: 0 !important;
+}
+
+.mobile_img{
+	margin-bottom: 20px;
+}
+
+.mobile_p {
+	margin-bottom: 35px;
 }
 
 /*Не проверил*/
